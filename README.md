@@ -2,23 +2,11 @@
 
 <p align="center">BuBBa DJ is multi-track audio mixing app for the browser</p>
 
-## Links
-
-- [BuBBa DJ Repo](https://github.com/mixpoint/mixpoint)
-
-- [Live Site](https://mixpoint.dev)
-
-- [Issues Page](https://github.com/mixpoint/mixpoint/issues)
-
-- [Discussion Page](https://github.com/mixpoint/mixpoint/discussions)
 
 ## Screenshot
 
 ![App](public/media/Mixpoint_Screenshot_323.png 'App')
 
-## Presentation
-
-[![Slides](public/media/Presentation_Screenshot_323.png 'Slides')](https://slides.com/mixpoint/mixpoint-05ab4b)
 
 ## Overview
 
